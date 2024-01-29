@@ -1,4 +1,7 @@
-node/modules
+node_modules
+lib
+bundle.js
+docs
+esptool-js-*.tgz
+.vscode/settings.json
 .parcel-cache
-dist
-package-lock.json
